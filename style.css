@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}    
+h1{
+    text-align: center;
+}
+h2{
+    text-align:start;
+}
+p{
+    text-align:start;
+    font-size:larger;
+}
+button{
+    text-align: center;
+    background-color: yellow;
+    border-radius: 200;
+    font-size: larger;
+}
+.sree{
+    width: 500px;
+    height: 60vh;
+    background-color:brown
+}
+.underline{
+    text-decoration: underline;
+    text-align: center;
+
+
+}
